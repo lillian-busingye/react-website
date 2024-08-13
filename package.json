@@ -1,0 +1,19 @@
+{
+  "name": "react-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lillian-busingye/react-website.git"
+  },
+  "author": "lillian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lillian-busingye/react-website/issues"
+  },
+  "homepage": "https://github.com/lillian-busingye/react-website#readme"
+}
