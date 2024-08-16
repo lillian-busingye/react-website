@@ -6,6 +6,10 @@ import "./App.css";
 // import Input from "./components/Input";
 import Home from "./pages/Home";
 import About from "./pages/About";
+import Contact from "./pages/Contact";
+import Products from "./pages/Products";
+import Order from "./pages/Order";
+
 import { Routes, Route } from "react-router-dom";
 
 function App() {
@@ -16,6 +20,9 @@ function App() {
     <Routes>
       <Route path="/" element={< Home />} />
       <Route path="/About" element= {< About />}/>
+      <Route path="/Contact" element= {< Contact />}/>
+      <Route path="/Products" element= {< Products />}/>
+      <Route path="/Order" element= {< Order />}/>
     </Routes>
     
    

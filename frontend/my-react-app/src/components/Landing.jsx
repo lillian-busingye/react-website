@@ -18,13 +18,13 @@ function Landing() {
           <li className="list"><Link to="/About">ABOUT US</Link></li>
         </button>
         <button>
-          <li className="list">CONTACT US</li>
+          <li className="list"><Link to="Contact">CONTACT US</Link></li>
         </button>
         <button>
-          <li className="list">PRODUCTS</li>
+          <li className="list"><Link to="Products">PRODUCTS</Link></li>
         </button>
         <button>
-          <li className="list">ORDER</li>
+          <li className="list"><Link to="Order">ORDER</Link></li>
         </button>
       </ul>
     </div>

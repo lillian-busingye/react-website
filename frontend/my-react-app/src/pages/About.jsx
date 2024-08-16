@@ -7,7 +7,7 @@ function About() {
   return (
     <div>
       <h1>About</h1>
-      <button> <Link to="/">Back</Link></button>
+      <button> <Link to="/">BACK</Link></button>
     </div>
   );
 }
