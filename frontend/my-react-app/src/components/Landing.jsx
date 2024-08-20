@@ -10,9 +10,9 @@ function Landing() {
   return (
     
     <div className="navbar flex gap-20 font-serif justify-end m-px">
-      <h1 className="text-3xl font-bold underline text-pink-950">
+      <Link to="/"><h1 className="text-3xl font-bold underline text-pink-950">
         LILLY,s STORE.
-      </h1>
+      </h1></Link>
       <ul className="navbar flex gap-20 font-serif justify-between m-px">
         <button>
           <li className="list"><Link to="/About">ABOUT US</Link></li>

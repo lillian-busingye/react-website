@@ -1,15 +1,15 @@
 import Input from "../components/Input"
-import Landing from "../components/Landing"
+// import Landing from "../components/Landing"
 
 
 function Home() {
   return (
     <div>
-        <Landing />
+        {/* <Landing /> */}
         <Input />
         
     </div>
   )
 }
 
-export default Home
+export default Home;
