@@ -28,6 +28,7 @@ function Landing() {
         </button>
       </ul>
     </div>
+    
   );
 }
 export default Landing;
